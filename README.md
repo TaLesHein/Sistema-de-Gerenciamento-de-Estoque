@@ -1,18 +1,14 @@
-## Getting Started
+## Sistem de Gerenciamento de Estoque (SGE)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O SGE é uma aplicação que permite o usuário a realizar o gerenciamento de um estoque fictício.
 
-## Folder Structure
+### Funcionalidades
 
-The workspace contains two folders by default, where:
+O usuário pode:
+- Criar novos produtos;
+- Adicionar e remover produtos do estoque. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Outras informações
+Este é um projeto de cunho educativo voltado para desenvolver as minhas habilidades em POO (Programação Orientado a Objeto)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
